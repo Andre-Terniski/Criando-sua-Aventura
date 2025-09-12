@@ -1,7 +1,7 @@
-Body{ 
+body{ 
     background-color: #1d4221;
   color: white;
-  font-family:  " Bay Janjure";
+  font-family:  " Bai Jamjuree", sans-serif;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -9,3 +9,8 @@ Body{
   margin: 0;
 }
   
+button{
+  background-color: #64a712;
+  color: white;
+  font-family: "Bai Jamjuree", sans-serif;
+}
